@@ -1,4 +1,8 @@
-__DESCRIPTION__="""converts a couple of XY profiles into a patch"""
+__DESCRIPTION__="""
+By M.Maris - 2014 Nov 20 -
+Converts a couple of XY profiles into a patch
+"""
+
 
 class profiles2patch :
   """converts a couple of XY profiles into a patch"""
